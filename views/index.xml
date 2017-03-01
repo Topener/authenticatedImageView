@@ -1,0 +1,6 @@
+<Alloy>
+    <Window class="container">
+        <ImageView module="authImage" id="mainImage"></ImageView> 
+        <ImageView module="authImage" id="secondImage"></ImageView> 
+    </Window>
+</Alloy>

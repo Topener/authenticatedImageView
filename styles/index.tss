@@ -1,0 +1,17 @@
+
+".container": {
+    backgroundColor: "#ffffff",
+    layout: 'vertical'
+}
+ 
+"#mainImage": {
+    width: 200,
+    height: Ti.UI.SIZE,
+    image: 'https://s3.eu-central-1.amazonaws.com/temperatuur/feeltempbr/20170221/201702210100.png'
+}
+
+"#secondImage": {
+    width: 200,
+    height: Ti.UI.SIZE,
+    image: 'https://s3.eu-central-1.amazonaws.com/temperatuur/windgusts/20170224/201702240125.png'
+}

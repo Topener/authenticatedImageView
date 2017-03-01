@@ -1,0 +1,3 @@
+
+
+$.getView().open();
